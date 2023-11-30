@@ -14,7 +14,7 @@
   "license": "ISC",
 
   "dependencies": {
-        "@adiwajshing/baileys": "github:whiskeySockets/Baileys",
+        "@adiwajshing/baileys": "npm:@queenanya/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "axios": "^0.24.0",
         "cluster": "0.7.7",
@@ -43,4 +43,3 @@
   }
 
 }
-
